@@ -2,7 +2,7 @@ package com.example.phonebook.entity;
 
 public class Contact {
 
-    public Contact() {};
+    public Contact() {}
 
     public Contact(String name, String number) {
         this.name = name;
